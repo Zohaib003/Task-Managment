@@ -17,7 +17,7 @@ Welcome to my project! This project is built using Node.js, Express, Mongoose, a
 To get started with this project, follow the steps below:
 
 **1.** Clone the repository:                                                                                                                                                                                                                                                                                                 
-git clone https://github.com/DawoodShah009/Task-Manager.git
+git clone[https://github.com/Zohaib003/Task-Managment]
 
 **2.** Install project dependencies:                                                                                                                                                                                                                                                                                         
 npm install
